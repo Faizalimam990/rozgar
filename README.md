@@ -22,7 +22,7 @@ Before you begin, ensure you have the following installed on your system:
 If you haven't already, clone the repository to your local machine using Git.
 
 ```bash
-git clone https://github.com/yourusername/rozgar-api.git
+git clone https://github.com/Faizalimam990/rozgar
 cd rozgar-api
 ```
 ## 2. Create a virtual environment
